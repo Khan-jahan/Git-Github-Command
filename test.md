@@ -16,3 +16,8 @@
 - <b> Open the repository to Github:</b> Create a new repository
 - <b> Connect to local repository by url
 - <b> File push to local repository to Remote repository :</b> git push
+
+## Connecting Local with Remote repository
+- <b> To check connection of repository :</b> git remote -v
+- <b> Connecting Local with Remote repository :</b> git remote add "Write https URL"
+- <b> To Pull the remote repository in divice :</b> git pull "Write https URL"
