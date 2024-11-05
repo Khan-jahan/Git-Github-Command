@@ -11,8 +11,8 @@
 
 ## Git Initialized & Staging 
 - <b> To Initialized the file:</b> git init
-- <b> Working Directory to Staging area:</b> git add.
-- <b> Staging area to local repository:</b> git add commit -m "Message"
+- <b> Working Directory to Staging area: </b> git add.
+- <b> Staging area to local repository: </b> git add commit -m "Message"
 - <b> Open the repository to Github:</b> Create a new repository
 - <b> Connect to local repository by url
 - <b> File push to local repository to Remote repository :</b> git push
