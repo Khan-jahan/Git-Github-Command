@@ -20,10 +20,9 @@
 
 ## Connecting Local with Remote repository
 - <b> To check connection of repository :</b> git remote -v
-- <b> Connecting Local with Remote repository :</b> git remote add "Write https URL"
+- <b> Connecting Local with Remote repository :</b> git remote add name "Write https URL"
 - <b> To Pull the remote repository in divice :</b> git pull "Write https URL"
-- <b> To Push the remote repository in divice :</b> git push "Write https URL"
-
+- <b> To Push the remote repository :</b> git push "Write https URL"
 ## Moving Backward.
 - <b> Commited File move To staging area:</b> git reset --soft head^
 - <b> Staging File move To unstage area :</b> git rm --cached test.md
